@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="attackingSoldiers">Attacking Soldiers:</string>
+    <string name="defendingSoldiers">Defending Soldiers:</string>
+    <string name="start">Start</string>
+</resources>
